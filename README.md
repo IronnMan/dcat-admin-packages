@@ -6,3 +6,19 @@
 - [deatil/dcat-form-media](https://github.com/deatil/dcat-form-media) Dcat-admin 表单媒体拓展
 - [jqhph/dcat-admin-ueditor](https://github.com/jqhph/dcat-admin-ueditor) Ueditor是一个Dcat Admin的扩展包，集成百度在线编辑器，支持附件上传等功能。
 - [celaraze/dcat-extension-plus](https://github.com/celaraze/dcat-extension-plus) 为 DcatAdmin 后台添加增强配置的功能。修改过程利用 DcatAdmin 自带的 admin_setting() 方法实现，不会硬编码修改任何 config 文件或者 .env 文件。
+- [super-eggs/dcat-distpicker](https://github.com/super-eggs/dcat-distpicker) Distpicker是一个中国省市区三级联动选择组件，这个包是基于 Distpicker 的 dcat-admin 扩展，用来将 Distpicker 集成进 dcat-admin的表单中。
+- [lty5240/dcat-easy-sku](https://github.com/lty5240/dcat-easy-sku) 基于Dcat Admin的Sku插件
+- [Abbotton/dcat-admin-setting-extension](https://github.com/Abbotton/dcat-admin-setting-extension) Dcat Admin系统配置插件
+- [dcat-admin/form-step](https://github.com/dcat-admin/form-step) Dcat Admin 分步表单扩展
+- [mosiboom/dcat-iframe-tab](https://github.com/mosiboom/dcat-iframe-tab) 这个扩展包基于laravel框架和dcat-admin框架，为解决dcat-admin没有自带兼容iframe架构。使用此扩展包可以构建出一个iframe架构并带有标签页管理的后台框架。
+- [tanmotop/dcat-admin-permission-plus](https://github.com/tanmotop/dcat-admin-permission-plus) dcat-admin extension permission-plus
+- [ArrowJustDoIt/dcat-admin-crontab-extension](https://github.com/ArrowJustDoIt/dcat-admin-crontab-extension) Crontab是一个dcat-admin后台的定时任务扩展插件,你可以通过此插件定时执行shell、sql以及访问指定链接
+- [Lichmaker/ladder-admin](https://github.com/Lichmaker/ladder-admin) 基于dcat-admin编写的v2ray管理后台
+- [dcat-admin/operation-log](https://github.com/dcat-admin/operation-log) Dcat Admin 操作日志扩展
+- [Sparkinzy/dcat-kindeditor](https://github.com/Sparkinzy/dcat-kindeditor) dcat-admin扩展kindeditor5.0.1
+- [asundust/dcat-auth-captcha](https://github.com/asundust/dcat-auth-captcha) dcat-admin登陆 滑动验证插件 多平台支持
+- [jyiL/log-viewer](https://github.com/jyiL/log-viewer) 错误日志查看
+- [nealwon/dcat-admin-echarts](https://github.com/nealwon/dcat-admin-echarts) dcat admin echarts extension
+- [nivin-studio/dcat-ext-taskscheduling](https://github.com/nivin-studio/dcat-ext-taskscheduling) 一个Dcat Admin的定时任务可视化管理的插件
+- [Death-Satan/dcat-env](https://github.com/Death-Satan/dcat-env) Dcat Admin Extension edit env file
+- [puzzle9/dact-admin-wang-editor](https://github.com/puzzle9/dact-admin-wang-editor) Dcat Admin扩展 - WangEditor
