@@ -22,6 +22,7 @@
 - [nivin-studio/dcat-ext-taskscheduling](https://github.com/nivin-studio/dcat-ext-taskscheduling) 一个Dcat Admin的定时任务可视化管理的插件
 - [Death-Satan/dcat-env](https://github.com/Death-Satan/dcat-env) Dcat Admin Extension edit env file
 - [puzzle9/dact-admin-wang-editor](https://github.com/puzzle9/dact-admin-wang-editor) Dcat Admin扩展 - WangEditor
+- [dairidong/dcat-media-manager](https://github.com/dairidong/dcat-media-manager) Dcat Admin的文件管理扩展（源于 Laravel Admin 的相同扩展）
 
 # Dcat-admin 应用
 - [nxcrm](https://github.com/shebaoting/nxcrm) 基于laravel的客户管理系统(CRM)
