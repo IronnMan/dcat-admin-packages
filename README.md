@@ -29,3 +29,4 @@
 - [laravel-box](https://gitee.com/celaraze/laravel-box) 整合laravel、dcat-admin、jwt、iseed、easy-wechat 、laravel-debugbar 等后台应用的开发包。管理后台开发所需的都在这里，省去配置步骤，开箱即用。
 - [chemex](https://github.com/celaraze/chemex) 咖啡壶是一个免费、开源、高效且漂亮的运维资产管理平台。
 - [Discover](https://github.com/youyingxiang/Discover) Discover 是一个基于 Dcat-admin 开发的进销存系统
+- [saas-skeleton](https://github.com/Abbotton/saas-skeleton) 基于 Laravel & Dcat Admin 构建的 SAAS 后台脚手架
