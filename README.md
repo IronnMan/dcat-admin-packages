@@ -27,6 +27,8 @@
 - [TyrantG/dcat-admin-braft-editor](https://github.com/TyrantG/dcat-admin-braft-editor) Dcat Admin扩展 - Braft Editor编辑器
 - [dcat-phper/dcat-extension-gallery](https://gitee.com/dcat-phper/dcat-extension-gallery) dcat-admin 预览图片扩展，支持多图，放大、缩小、旋转等
 - [slowlyo/dcat-amis](https://gitee.com/slowlyo/dcat-amis) Dcat Admin 的 amis组件扩展, 可以在 dcat 中轻松使用 amis 组件, 让你开发自定义页面变得更简单
+- [sparkinzy/dcat-distpicker](https://github.com/Sparkinzy/dcat-distpicker) Distpicker 是一个中国省市区三级联动选择组件
+- [sparkinzy/dcat-extension-client](https://github.com/Sparkinzy/dcat-extension-client) Dcat Admin 非官方应用市场，让扩展不再难找
 
 # Dcat-admin 应用
 - [nxcrm](https://github.com/shebaoting/nxcrm) 基于laravel的客户管理系统(CRM)
