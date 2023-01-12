@@ -36,3 +36,4 @@
 - [chemex](https://github.com/celaraze/chemex) 咖啡壶是一个免费、开源、高效且漂亮的运维资产管理平台。
 - [Discover](https://github.com/youyingxiang/Discover) Discover 是一个基于 Dcat-admin 开发的进销存系统
 - [saas-skeleton](https://github.com/Abbotton/saas-skeleton) 基于 Laravel & Dcat Admin 构建的 SAAS 后台脚手架
+- [dujiaoka](https://github.com/assimon/dujiaoka) 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
