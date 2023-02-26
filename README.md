@@ -30,6 +30,10 @@
 | [slowlyo/dcat-amis](https://gitee.com/slowlyo/dcat-amis)     | Dcat Admin 的 amis 组件扩展, 可以在 dcat 中轻松使用 amis 组件, 让你开发自定义页面变得更简单 | `dev` `tool`      | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/slowlyo/dcat-amis) |
 | [sparkinzy/dcat-distpicker](https://github.com/Sparkinzy/dcat-distpicker) | Distpicker 是一个中国省市区三级联动选择组件                  | `distpicker`      | ![GitHub Repo stars](https://flat.badgen.net/github/stars/sparkinzy/dcat-distpicker) |
 | [sparkinzy/dcat-extension-client](https://github.com/Sparkinzy/dcat-extension-client) | Dcat Admin 非官方应用市场，让扩展不再难找                    | `market`          | ![GitHub Repo stars](https://flat.badgen.net/github/stars/sparkinzy/dcat-extension-client) |
+| [dcat-phper/geetest](https://gitee.com/dcat-phper/geetest)   | 极致验证                                                     | `login` `captcha` | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/geetest) |
+| [dcat-phper/dcat-markdown](https://gitee.com/dcat-phper/dcat-markdown) | markdown 编辑器，支持本地图片拖拽上传                        | `editor`          | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/dcat-markdown) |
+| [dcat-phper/dcat-backup](https://gitee.com/dcat-phper/dcat-backup) | 数据库/项目备份拓展                                          | `backup`          | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/dcat-backup) |
+| [dcat-phper/dcat-config](https://gitee.com/dcat-phper/dcat-config) | 动态添加配置项，可以替换系统 `config` 或 `env` 配置          | `setting`         | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/dcat-config) |
 
 
 
