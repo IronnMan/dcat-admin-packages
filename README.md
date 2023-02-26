@@ -26,7 +26,7 @@
 | [puzzle9/dact-admin-wang-editor](https://github.com/puzzle9/dact-admin-wang-editor) | Dcat Admin 扩展 - WangEditor                                 | `editor`          | ![GitHub Repo stars](https://flat.badgen.net/github/stars/puzzle9/dact-admin-wang-editor) |
 | [dairidong/dcat-media-manager](https://github.com/dairidong/dcat-media-manager) | Dcat Admin 的文件管理扩展（源于 Laravel Admin 的相同扩展）   | `media`           | ![GitHub Repo stars](https://flat.badgen.net/github/stars/dairidong/dcat-media-manager) |
 | [TyrantG/dcat-admin-braft-editor](https://github.com/TyrantG/dcat-admin-braft-editor) | Dcat Admin 扩展 - Braft Editor 编辑器                        | `editor`          | ![GitHub Repo stars](https://flat.badgen.net/github/stars/TyrantG/dcat-admin-braft-editor) |
-| [dcat-phper/dcat-extension-gallery](https://gitee.com/dcat-phper/dcat-extension-gallery) | dcat-admin 预览图片扩展，支持多图，放大、缩小、旋转等        |                   | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/dcat-extension-gallery) |
+| [dcat-phper/dcat-extension-gallery](https://gitee.com/dcat-phper/dcat-extension-gallery) | dcat-admin 预览图片扩展，支持多图，放大、缩小、旋转等        | `img`             | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/dcat-extension-gallery) |
 | [slowlyo/dcat-amis](https://gitee.com/slowlyo/dcat-amis)     | Dcat Admin 的 amis 组件扩展, 可以在 dcat 中轻松使用 amis 组件, 让你开发自定义页面变得更简单 | `dev` `tool`      | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/slowlyo/dcat-amis) |
 | [sparkinzy/dcat-distpicker](https://github.com/Sparkinzy/dcat-distpicker) | Distpicker 是一个中国省市区三级联动选择组件                  | `distpicker`      | ![GitHub Repo stars](https://flat.badgen.net/github/stars/sparkinzy/dcat-distpicker) |
 | [sparkinzy/dcat-extension-client](https://github.com/Sparkinzy/dcat-extension-client) | Dcat Admin 非官方应用市场，让扩展不再难找                    | `market`          | ![GitHub Repo stars](https://flat.badgen.net/github/stars/sparkinzy/dcat-extension-client) |
@@ -35,7 +35,7 @@
 
 # Dcat-admin 应用
 
-| 名称                                                         | 秒速                                                         | 标签         | Stars                                                        |
+| 名称                                                         | 描述                                                         | 标签         | Stars                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
 | [nxcrm](https://github.com/shebaoting/nxcrm)                 | 基于 laravel 的客户管理系统(CRM)                             | `crm`        | ![GitHub Repo stars](https://flat.badgen.net/github/stars/shebaoting/nxcrm) |
 | [laravel-box](https://gitee.com/dcat-phper/laravel-box)      | 整合 laravel、dcat-admin、jwt、iseed、easy-wechat 、laravel-debugbar 等后台应用的开发包。管理后台开发所需的都在这里，省去配置步骤，开箱即用。 | `dev` `tool` | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/laravel-box) |
