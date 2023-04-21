@@ -34,7 +34,7 @@
 | [dcat-phper/dcat-markdown](https://gitee.com/dcat-phper/dcat-markdown) | markdown 编辑器，支持本地图片拖拽上传                        | `editor`          | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/dcat-markdown) |
 | [dcat-phper/dcat-backup](https://gitee.com/dcat-phper/dcat-backup) | 数据库/项目备份拓展                                          | `backup`          | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/dcat-backup) |
 | [dcat-phper/dcat-config](https://gitee.com/dcat-phper/dcat-config) | 动态添加配置项，可以替换系统 `config` 或 `env` 配置          | `setting`         | ![Gitee Repo stars](https://gitee-badge.vercel.app/svg/stars/dcat-phper/dcat-config) |
-
+| [jarl/activity-log](https://github.com/jarl0415/activity-log)                                                 | Dcat Admin 基于 activity-log 的操作日志扩展                                                                                       | `log`             | ![Gitee Repo stars](https://img.shields.io/github/stars/jarl0415/activity-log) |
 
 
 # Dcat-admin 应用
